@@ -17,5 +17,5 @@ Usage instructions:
   8) try to use
 Future enhancements: I want to make it new changes in this project with features like edit the task with account synching .
  
-live domo --- https://nbhujbal123.github.io/New-Fashion/
+live domo --- https://nbhujbal123.github.io/To-Do-List1/
    
